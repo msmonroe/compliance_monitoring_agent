@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![AI-Powered](https://img.shields.io/badge/AI-GPT--4-powered-critical)
+![AI](https://img.shields.io/badge/AI-Powered-blueviolet)
 
 ---
 
