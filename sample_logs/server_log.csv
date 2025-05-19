@@ -1,0 +1,7 @@
+timestamp,username,action,ip,status,message
+2025-05-19 08:31:01,jdoe,LOGIN,192.168.1.101,FAILED,Incorrect password
+2025-05-19 08:31:05,jdoe,LOGIN,192.168.1.101,FAILED,Incorrect password
+2025-05-19 08:31:08,jdoe,LOGIN,192.168.1.101,FAILED,Account temporarily locked
+2025-05-19 08:32:15,admin,LOGIN,10.0.0.5,FAILED,Unauthorized access attempt
+2025-05-19 08:33:00,bsmith,UPLOAD,172.16.0.7,SUCCESS,File uploaded: finance2024.xlsx
+2025-05-19 22:47:32,admin,LOGIN,10.0.0.5,SUCCESS,Login after hours
